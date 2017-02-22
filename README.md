@@ -1,12 +1,12 @@
-# Web-Scrapper 
-Scrap anything from any website by using Web Scrapper tool.
-## How to use Web-Scrapper tool?
+# Web-Scraper 
+Scrap anything from any website by using Web Scraper tool.
+## How to use Web-Scraper tool?
 There is three step to use this tool.
 
 > Step 1 : Paste URL in first input field _(URL - Where from you want to scrap data)_
 >> ![Paste URL in first text field](https://raw.githubusercontent.com/MrPawanMall/Web-Scrapper/demo_files/Step-1-web-scrapper-pawan-mall.JPG)
 
-> Step 2 : Set or paste rules _(You can use CSS selectors or HTML tags)_ for scrapping data or you can choose default option from  menubar.
+> Step 2 : Set or paste rules _(You can use CSS selectors or HTML tags)_ for scraping data or you can choose default option from  menu bar.
 >> ![Set or paste rules in second text field](https://raw.githubusercontent.com/MrPawanMall/Web-Scrapper/demo_files/Step-2-web-scrapper-pawan-mall.JPG)
 
 > Step 3 : And in last just click on **Fetch Result** Button to get data. 
