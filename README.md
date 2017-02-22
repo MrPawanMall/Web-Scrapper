@@ -4,10 +4,7 @@ Scrap anything from any website by using Web Scrapper tool.
 There is three step to use this tool.
 
 > Step 1 : Paste URL in first input field _(URL - Where from you want to scrap data)_
-
->> ![Paste URL in first text field](/Web-Scrapper/Step-1-web-scrapper-pawan-mall.JPG)
-
-  
+>> ![Paste URL in first text field](https://raw.githubusercontent.com/MrPawanMall/Web-Scrapper/demo_files/Step-1-web-scrapper-pawan-mall.JPG)
 
 > Step 2 : Set or paste rules _(You can use CSS selectors or HTML tags)_ for scrapping data or you can choose default option from  menubar.
 >> ![Set or paste rules in second text field]({{site.baseurl}}//Step-2-web-scrapper-pawan-mall.JPG)
