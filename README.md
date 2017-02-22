@@ -5,7 +5,7 @@ There is three step to use this tool.
 
 > Step 1 : Paste URL in first input field _(URL - Where from you want to scrap data)_
 
->> ![Paste URL in first text field]({{site.baseurl}}/Web-Scrapper/Step-1-web-scrapper-pawan-mall.JPG)
+>> ![Paste URL in first text field](/Web-Scrapper/Step-1-web-scrapper-pawan-mall.JPG)
 
   
 
